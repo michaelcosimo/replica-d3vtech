@@ -1,0 +1,19 @@
+<svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 44658">
+<g id="Group 44660">
+<g id="Group 44657">
+<rect id="Rectangle 14917" width="52" height="52" rx="12" fill="white"/>
+</g>
+<g id="Group 44654">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M26 11C34.2843 11 41 17.7157 41 26C41 34.2843 34.2843 41 26 41C17.7157 41 11 34.2843 11 26C11 17.7157 17.7157 11 26 11Z" fill="url(#paint0_linear_634_597)"/>
+<path id="Vector_2" d="M27.9489 40.874V29.2877H31.2153L31.6483 25.2099H27.9489L27.9544 23.1688C27.9544 22.1052 28.0554 21.5355 29.5831 21.5355H31.6254V17.457H28.3582C24.4339 17.457 23.0528 19.4351 23.0528 22.7621V25.2102H20.6064V29.2884H23.0528V40.7097C24.0058 40.8996 24.9911 40.9999 25.9999 40.9999C26.6516 40.9999 27.3026 40.9578 27.9489 40.874Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_634_597" x1="26" y1="10.7267" x2="26" y2="42.2792" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00B2FF"/>
+<stop offset="1" stop-color="#006AFF"/>
+</linearGradient>
+</defs>
+</svg>
